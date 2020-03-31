@@ -1,0 +1,11 @@
+Package: hursta2a520709cdf
+Title: hursta2a520709cdf
+Version: 1.0
+Created: Mon Mar 30 20:56:35 2020
+Author: Steven Eschrich
+Description: A package containing an environment representing the HuRSTA_2a520709.CDF file.
+Maintainer: Steven Eschrich <Steven.Eschrich@moffitt.org>
+License: LGPL
+biocViews: AnnotationData, AffymetrixChip, cdf, hursta2a520709, Homo_sapiens
+Depends: utils
+Imports: AnnotationDbi
